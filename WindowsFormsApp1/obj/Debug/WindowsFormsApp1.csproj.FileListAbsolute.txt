@@ -1,0 +1,23 @@
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Programming\C#\6-1)windows\4-slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Programming\C#\6-3)-windows slide show\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
